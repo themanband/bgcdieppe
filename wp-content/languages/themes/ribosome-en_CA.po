@@ -1,0 +1,730 @@
+# Translation of Themes - Ribosome in English (Canada)
+# This file is distributed under the same license as the Themes - Ribosome package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-26 20:50:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_CA\n"
+"Project-Id-Version: Themes - Ribosome\n"
+
+#. Description of the plugin/theme
+msgid "Ribosome is a simple and light WordPress theme with a clear and neat design. Some its features are: header image or logo, custom theme color (blue, green, orange, pink or red), right sidebar or left, excerpts or entire entries on homepage, main menu on the left or centered, six different Google Fonts, thumbnails rounded or squared, two widgets areas (beginning and end of posts), related posts, customization panel, fully responsive, custom header, custom background and more. Translation Ready (English and spanish integrated). Required WordPress 4.1+."
+msgstr "Ribosome is a simple and light WordPress theme with a clear and neat design. Some its features are: header image or logo, custom theme colour (blue, green, orange, pink or red), right sidebar or left, excerpts or entire entries on homepage, main menu on the left or centred, six different Google Fonts, thumbnails rounded or squared, two widgets areas (beginning and end of posts), related posts, customization panel, fully responsive, custom header, custom background and more. Translation Ready (English and Spanish integrated). Requires WordPress 4.1+."
+
+#. Theme Name of the plugin/theme
+msgid "Ribosome"
+msgstr "Ribosome"
+
+#: inc/ribosome-lite-customizer.php:414
+msgid "WhatsApp URL"
+msgstr "WhatsApp URL"
+
+#: functions.php:494
+msgid "Next &raquo;"
+msgstr "Next &raquo;"
+
+#: functions.php:493
+msgid "&laquo; Previous"
+msgstr "&laquo; Previous"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Search"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "Search..."
+
+#: searchform.php:11 searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Search for:"
+
+#: inc/ribosome-lite-customizer.php:599
+msgid "(Single posts and main page with full posts)"
+msgstr "(Single posts and main page with full posts)"
+
+#: inc/ribosome-lite-customizer.php:597
+msgid "Show featured image below post titles."
+msgstr "Show featured image below post titles."
+
+#: inc/ribosome-lite-customizer.php:152
+msgid "Blue WP"
+msgstr "Blue WP"
+
+#: inc/ribosome-lite-customizer.php:153
+msgid "Golden"
+msgstr "Golden"
+
+#: inc/ribosome-lite-customizer.php:157
+msgid "Purple"
+msgstr "Purple"
+
+#: inc/ribosome-lite-customizer.php:648
+msgid "Show navigation at the end of posts (links to previous and next posts)"
+msgstr "Show navigation at the end of posts (links to previous and next posts)"
+
+#: inc/ribosome-lite-customizer.php:312
+msgid "Display top bar"
+msgstr "Display top bar"
+
+#: inc/ribosome-lite-customizer.php:173
+msgid "(Uncheck: Black)"
+msgstr "(Uncheck: Black)"
+
+#: inc/ribosome-lite-help.php:156
+msgid "CSS editor integrated in the customizer. You can make changes without modifying the style.css file."
+msgstr "CSS editor integrated in the customizer. You can make changes without modifying the style.css file."
+
+#: inc/ribosome-lite-help.php:125
+msgid "Review Ribosome"
+msgstr "Review Ribosome"
+
+#: inc/ribosome-lite-help.php:122
+msgid "Please, if you are happy with the theme, say it on wordpress.org and give Ribosome a nice review. Thank you."
+msgstr "Please, if you are happy with the theme, say it on wordpress.org and give Ribosome a nice review. Thank you."
+
+#: inc/ribosome-lite-help.php:121
+msgid "Rating and Review"
+msgstr "Rating and Review"
+
+#: inc/ribosome-lite-customizer.php:158
+msgid "Red"
+msgstr "Red"
+
+#: inc/ribosome-lite-customizer.php:618
+msgid "Show metadata in excerpts (Author, date and number of comments)"
+msgstr "Show metadata in excerpts (Author, date and number of comments)"
+
+#. Template Name of the plugin/theme
+msgid "Full-width Page Template, No Sidebar"
+msgstr "Full-width Page Template, No Sidebar"
+
+#: header.php:65 template-parts/top-bar.php:10
+msgid "MENU"
+msgstr "Menu"
+
+#: template-parts/sticky.php:10
+msgid "Featured post"
+msgstr "Featured post"
+
+#: template-parts/related-posts.php:28
+msgid "Related posts"
+msgstr "Related posts"
+
+#: template-parts/menu-movil.php:14
+msgid "Search..."
+msgstr "Search..."
+
+#: template-parts/menu-movil.php:13 template-parts/menu-movil.php:15
+#: template-parts/searchform-toggle.php:3
+#: template-parts/searchform-toggle.php:5
+msgid "Search"
+msgstr "Search"
+
+#: search.php:34
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: index.php:41
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+
+#: index.php:37
+msgid "No posts to display"
+msgstr "No posts to display"
+
+#: inc/ribosome-lite-help.php:175
+msgid " Integrated Spanish and English"
+msgstr " Integrated Spanish and English"
+
+#: inc/ribosome-lite-help.php:174
+msgid " Translation Ready (.po file integrated)"
+msgstr " Translation Ready (.po file integrated)"
+
+#: inc/ribosome-lite-help.php:173
+msgid " AddThis ready, just paste the code"
+msgstr " AddThis ready, just paste the code"
+
+#: inc/ribosome-lite-help.php:172
+msgid " Google Analytics ready, just paste the code"
+msgstr " Google Analytics ready, just paste the code"
+
+#: inc/ribosome-lite-help.php:171
+msgid " Easily apply Ribosome style to bbPress, just check the option."
+msgstr " Easily apply Ribosome style to bbPress, just check the option."
+
+#: inc/ribosome-lite-help.php:170
+msgid " Google Plus Authorship Integration"
+msgstr " Google Plus Authorship Integration"
+
+#: inc/ribosome-lite-help.php:169
+msgid " Social networks in user profile"
+msgstr " Social networks in user profile"
+
+#: inc/ribosome-lite-help.php:168
+msgid " Custom shortcodes (Buttons, Messages, Accordion and Tabs)"
+msgstr " Custom shortcodes (Buttons, Messages, Accordion and Tabs)"
+
+#: inc/ribosome-lite-help.php:167
+msgid " Custom pagination"
+msgstr " Custom pagination"
+
+#: inc/ribosome-lite-help.php:166
+msgid " Breadcrumb navigation"
+msgstr " Breadcrumb navigation"
+
+#: inc/ribosome-lite-help.php:165
+msgid " Show/Hide post meta (author, date, comments number)"
+msgstr " Show/Hide post meta (author, date, comments number)"
+
+#: inc/ribosome-lite-help.php:164
+msgid " Related posts with thumbnails"
+msgstr " Related posts with thumbnails"
+
+#: inc/ribosome-lite-help.php:163
+msgid " 6 Custom widgets (Facebook Page Plugin, Recent posts with square thumbnails or rounded, Popular posts with square thumbnails or rounded, Recent comments with square avatars or rounded, Email subscription, Meta Widget with dashicons and ability to show/hide links)"
+msgstr " 6 Custom widgets (Facebook Page Plugin, Recent posts with square thumbnails or rounded, Popular posts with square thumbnails or rounded, Recent comments with square avatars or rounded, Email subscription, Meta Widget with dashicons and ability to show/hide links)"
+
+#: inc/ribosome-lite-help.php:162
+msgid " Available 15 differents Google fonts"
+msgstr " Available 15 differents Google fonts"
+
+#: inc/ribosome-lite-help.php:161
+msgid "Easily add yor Login Logo"
+msgstr "Easily add yor Login Logo"
+
+#: inc/ribosome-lite-help.php:160
+msgid "7 widgets areas to add AdSense code or anything else"
+msgstr "7 widgets areas to add AdSense code or anything else"
+
+#: inc/ribosome-lite-help.php:159
+msgid "Show extract or whole post on homepage."
+msgstr "Show extract or whole post on homepage."
+
+#: inc/ribosome-lite-help.php:158
+msgid "Sidebar left or right"
+msgstr "Sidebar left or right"
+
+#: inc/ribosome-lite-help.php:157
+msgid "Light gray main menu or black"
+msgstr "Light grey main menu or black"
+
+#: inc/ribosome-lite-help.php:155
+msgid "Unlimited theme colors"
+msgstr "Unlimited theme colours"
+
+#: inc/ribosome-lite-help.php:154
+msgid "Forum support"
+msgstr "Forum support"
+
+#: inc/ribosome-lite-help.php:150
+msgid "Features"
+msgstr "Features"
+
+#: inc/ribosome-lite-help.php:144
+msgid "Compare with Lite Version"
+msgstr "Compare with Lite Version"
+
+#: inc/ribosome-lite-help.php:143
+msgid "Buy"
+msgstr "Buy"
+
+#: inc/ribosome-lite-help.php:142
+msgid "Live Demo"
+msgstr "Live Demo"
+
+#: inc/ribosome-lite-help.php:134
+msgid "With <strong>Ribosome Pro</strong> you can set up your blog with everything you need in minutes."
+msgstr "With <strong>Ribosome Pro</strong> you can set up your blog with everything you need in minutes."
+
+#: inc/ribosome-lite-help.php:118
+msgid "if you choose a logo, instead full image for the header, check the option \"Header image is a logo\" (at the end of the section Header Image). Then, to apply margins and center the logo activates the appropriate boxes."
+msgstr "if you choose a logo, instead of a full image for the header, check the option \"Header image is a logo\" (at the end of the section Header Image). Then, to apply margins and centre the logo activates the appropriate boxes."
+
+#: inc/ribosome-lite-help.php:115
+msgid "Logo in the header"
+msgstr "Logo in the header"
+
+#: inc/ribosome-lite-help.php:113
+msgid "To receive support from us or other users visit the <a href=\"https://wordpress.org/support/theme/ribosome\">Ribosome forum support on WordPress.org</a>"
+msgstr "To receive support from us or other users visit the <a href=\"https://wordpress.org/support/theme/ribosome\">Ribosome forum support on WordPress.org</a>"
+
+#: inc/ribosome-lite-help.php:112
+msgid "To customize Ribosome go to <i>Appearance > Customize</i>"
+msgstr "To customize Ribosome go to <i>Appearance > Customize</i>"
+
+#: inc/ribosome-lite-help.php:111
+msgid "Customize Ribosome"
+msgstr "Customize Ribosome"
+
+#: inc/ribosome-lite-help.php:109
+msgid "If Ribosome is not the first theme you use, you must regenerate the thumbnails of image with some free plugin as"
+msgstr "If Ribosome is not the first theme you use, you must regenerate the thumbnails of image with some free plugin as"
+
+#: inc/ribosome-lite-help.php:107
+msgid " For images appear on the homepage, you must set the featured image of the posts."
+msgstr " For images appear on the homepage, you must set the featured image of the posts."
+
+#: inc/ribosome-lite-help.php:106
+msgid "Important: thumbnails"
+msgstr "Important: thumbnails"
+
+#: inc/ribosome-lite-help.php:104
+msgid "Ribosome Quick Start Guide"
+msgstr "Ribosome Quick Start Guide"
+
+#: inc/ribosome-lite-help.php:102
+msgid "Ribosome is a simple and light WordPress theme with a clear and neat design. Some its features are: header image or logo, custom theme color (blue, green, orange or pink), right sidebar or left, excerpts or entire entries on homepage, main menu on the left or centered, six different Google Fonts, thumbnails rounded or squared, two widgets areas (beginning and end of posts), related posts, customization panel, fully responsive, custom header, custom background and more. Translation Ready (English and spanish integrated). Required WordPress 4.1+."
+msgstr "Ribosome is a simple and light WordPress theme with a clear and neat design. Some its features are: header image or logo, custom theme colour (blue, green, orange or pink), right sidebar or left, excerpts or entire entries on homepage, main menu on the left or centred, six different Google Fonts, thumbnails rounded or squared, two widgets areas (beginning and end of posts), related posts, customization panel, fully responsive, custom header, custom background and more. Translation Ready (English and Spanish integrated). Requires WordPress 4.1+."
+
+#: inc/ribosome-lite-help.php:100
+msgid "Thank you for choosing Ribosome"
+msgstr "Thank you for choosing Ribosome"
+
+#: inc/ribosome-lite-help.php:12
+msgid "Ribosome Help"
+msgstr "Ribosome Help"
+
+#: inc/ribosome-lite-customizer.php:687
+msgid "Footer text left"
+msgstr "Footer text left"
+
+#: inc/ribosome-lite-customizer.php:677
+msgid "Footer text"
+msgstr "Footer text"
+
+#: inc/ribosome-lite-customizer.php:668
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/ribosome-lite-customizer.php:658
+msgid "Display 'Back to top' button"
+msgstr "Display 'Back to top' button"
+
+#: inc/ribosome-lite-customizer.php:638
+msgid "Display related posts at the end of entries"
+msgstr "Display related posts at the end of entries"
+
+#: inc/ribosome-lite-customizer.php:628
+msgid "Entry text justified"
+msgstr "Entry text justified"
+
+#: inc/ribosome-lite-customizer.php:608
+msgid "Excerpt's thumbnail image rounded"
+msgstr "Excerpt's thumbnail image rounded"
+
+#: inc/ribosome-lite-customizer.php:587
+msgid "Show full content of the entries in the main page."
+msgstr "Show full content of the entries in the main page."
+
+#: inc/ribosome-lite-customizer.php:578
+msgid "Posts"
+msgstr "Posts"
+
+#: inc/ribosome-lite-customizer.php:566
+msgid "Right"
+msgstr "Right"
+
+#: inc/ribosome-lite-customizer.php:565
+msgid "Left"
+msgstr "Left"
+
+#: inc/ribosome-lite-customizer.php:560
+msgid "Select sidebar position"
+msgstr "Select sidebar position"
+
+#: inc/ribosome-lite-customizer.php:547
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: inc/ribosome-lite-customizer.php:537
+msgid "Content"
+msgstr "Content"
+
+#: inc/ribosome-lite-customizer.php:527
+msgid "Center menu"
+msgstr "Centre menu"
+
+#: inc/ribosome-lite-customizer.php:516
+msgid "Show line above the menu"
+msgstr "Show line above the menu"
+
+#: inc/ribosome-lite-customizer.php:504
+msgid "Black menu"
+msgstr "Black menu"
+
+#: inc/ribosome-lite-customizer.php:493
+msgid "Main Menu"
+msgstr "Main Menu"
+
+#: inc/ribosome-lite-customizer.php:483
+msgid "(Uncheck: Theme color)"
+msgstr "(Uncheck: Theme colour)"
+
+#: inc/ribosome-lite-customizer.php:482
+msgid "With logo, white background"
+msgstr "With logo, white background"
+
+#: inc/ribosome-lite-customizer.php:470
+msgid "Center logo"
+msgstr "Centre logo"
+
+#: inc/ribosome-lite-customizer.php:458
+msgid "Apply logo margins"
+msgstr "Apply logo margins"
+
+#: inc/ribosome-lite-customizer.php:448
+msgid "(You must have this option checked to apply the following)"
+msgstr "(You must have this option checked to apply the following)"
+
+#: inc/ribosome-lite-customizer.php:446
+msgid "Header image is a logo"
+msgstr "Header image is a logo"
+
+#: inc/ribosome-lite-customizer.php:435
+msgid "Header Image"
+msgstr "Header Image"
+
+#: inc/ribosome-lite-customizer.php:424
+msgid "RSS URL"
+msgstr "RSS URL"
+
+#: inc/ribosome-lite-customizer.php:404
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#: inc/ribosome-lite-customizer.php:394
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: inc/ribosome-lite-customizer.php:384
+msgid "YouTube URL"
+msgstr "YouTube URL"
+
+#: inc/ribosome-lite-customizer.php:374
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: inc/ribosome-lite-customizer.php:364
+msgid "Google Plus URL"
+msgstr "Google Plus URL"
+
+#: inc/ribosome-lite-customizer.php:354
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: inc/ribosome-lite-customizer.php:344
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: inc/ribosome-lite-customizer.php:334
+msgid "Show the word menu next to the icon menu on mobile devices."
+msgstr "Show the word menu next to the icon menu on mobile devices."
+
+#: inc/ribosome-lite-customizer.php:323
+msgid "Display blog title in top bar"
+msgstr "Display blog title in top bar"
+
+#: inc/ribosome-lite-customizer.php:301
+msgid "(Leave blank text boxes to not display icons)"
+msgstr "(Leave blank text boxes to not display icons)"
+
+#: inc/ribosome-lite-customizer.php:300
+msgid "Top bar and social icons"
+msgstr "Top bar and social icons"
+
+#: inc/ribosome-lite-customizer.php:290
+msgid "Header"
+msgstr "Header"
+
+#: inc/ribosome-lite-customizer.php:280
+msgid "Background Image"
+msgstr "Background Image"
+
+#: inc/ribosome-lite-customizer.php:246
+msgid "Select font"
+msgstr "Select font"
+
+#: inc/ribosome-lite-customizer.php:233
+msgid "Fonts"
+msgstr "Fonts"
+
+#: inc/ribosome-lite-customizer.php:223
+msgid "(Uncheck: White)"
+msgstr "(Uncheck: White)"
+
+#: inc/ribosome-lite-customizer.php:221
+msgid "Apply to the header when there is no image"
+msgstr "Apply to the header when there is no image"
+
+#: inc/ribosome-lite-customizer.php:210 inc/ribosome-lite-customizer.php:506
+msgid "(Uncheck: Light gray)"
+msgstr "(Uncheck: Light grey)"
+
+#: inc/ribosome-lite-customizer.php:208
+msgid "Apply to widget title"
+msgstr "Apply to widget title"
+
+#: inc/ribosome-lite-customizer.php:196
+msgid "Apply to the left border of extracts"
+msgstr "Apply to the left border of extracts"
+
+#: inc/ribosome-lite-customizer.php:184
+msgid "Apply to entry title in excerpts"
+msgstr "Apply to entry title in excerpts"
+
+#: inc/ribosome-lite-customizer.php:171
+msgid "Apply to top bar"
+msgstr "Apply to top bar"
+
+#: inc/ribosome-lite-customizer.php:156
+msgid "Pink"
+msgstr "Pink"
+
+#: inc/ribosome-lite-customizer.php:155
+msgid "Orange"
+msgstr "Orange"
+
+#: inc/ribosome-lite-customizer.php:154
+msgid "Green"
+msgstr "Green"
+
+#: inc/ribosome-lite-customizer.php:151
+msgid "Blue"
+msgstr "Blue"
+
+#: inc/ribosome-lite-customizer.php:145
+msgid "Theme color"
+msgstr "Theme colour"
+
+#: inc/ribosome-lite-customizer.php:131
+msgid "Colors"
+msgstr "Colours"
+
+#: inc/ribosome-lite-customizer.php:121
+msgid "Site Identity"
+msgstr "Site Identity"
+
+#: inc/ribosome-lite-customizer.php:111
+msgid "General settings"
+msgstr "General Settings"
+
+#: image.php:38
+msgid "Next &rarr;"
+msgstr "Next &rarr;"
+
+#: image.php:37
+msgid "&larr; Previous"
+msgstr "&larr; Previous"
+
+#: image.php:22
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+
+#: header.php:76
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: functions.php:454
+msgid "Read more"
+msgstr "Read more"
+
+#: functions.php:343
+msgid "Reply"
+msgstr "Reply"
+
+#: functions.php:332
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#. translators: 1: date, 2: time
+#: functions.php:326
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: functions.php:320
+msgid "Post author"
+msgstr "Post author"
+
+#: functions.php:305
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: functions.php:305
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:277
+msgid "Appears at the end of entries content"
+msgstr "Appears at the end of entries content"
+
+#: functions.php:276
+msgid "Ribosome: End of entries"
+msgstr "Ribosome: End of entries"
+
+#: functions.php:267
+msgid "Appears below entries title"
+msgstr "Appears below entries title"
+
+#: functions.php:266
+msgid "Ribosome: Below entries title"
+msgstr "Ribosome: Below entries title"
+
+#: functions.php:258
+msgid "Appears on posts and pages except Full-width Page Template"
+msgstr "Appears on posts and pages except Full-width Page Template"
+
+#: functions.php:256
+msgid "Main Sidebar"
+msgstr "Main Sidebar"
+
+#: functions.php:108
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: functions.php:101
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: footer.php:28
+msgid "Semantic Personal Publishing Platform"
+msgstr "Semantic Personal Publishing Platform"
+
+#: footer.php:28
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: footer.php:28
+msgid "Powered by"
+msgstr "Powered by"
+
+#: footer.php:27
+msgid "by"
+msgstr "by"
+
+#: footer.php:22 inc/ribosome-lite-customizer.php:692
+#: inc/ribosome-lite-customizer.php:697
+msgid "Footer text center"
+msgstr "Footer text centre"
+
+#: footer.php:16 inc/ribosome-lite-customizer.php:682
+msgid "Copyright 2015"
+msgstr "Copyright 2015"
+
+#: template-parts/author-info-box.php:22
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:108
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:28 content.php:150 functions.php:337 image.php:33
+#: template-parts/sticky.php:51
+msgid "Edit"
+msgstr "Edit"
+
+#: content-page.php:22 content.php:111 image.php:98
+msgid "Pages:"
+msgstr "Pages:"
+
+#: content-none.php:16 index.php:52
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "Apologies, but no results were found. Perhaps searching will help find a related post."
+
+#: content-none.php:12 index.php:48 search.php:30
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr "Comments are closed"
+
+#: comments.php:43
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: comments.php:42
+msgid "&larr; Older Comments"
+msgstr "&larr; Older Comments"
+
+#: comments.php:41
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:25
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: author.php:36 template-parts/author-info-box.php:18
+msgid "About %s"
+msgstr "About %s"
+
+#: author.php:19
+msgid "Author Archives: %s"
+msgstr "Author Archives: %s"
+
+#: archive.php:24
+msgid "Archives"
+msgstr "Archives"
+
+#: archive.php:22
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:22
+msgid "Yearly Archives: %s"
+msgstr "Yearly Archives: %s"
+
+#: archive.php:20
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:20
+msgid "Monthly Archives: %s"
+msgstr "Monthly Archives: %s"
+
+#: archive.php:18
+msgid "Daily Archives: %s"
+msgstr "Daily Archives: %s"
+
+#: 404.php:19
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: 404.php:15
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "This page was not found."
+
+#. Author URI of the plugin/theme
+msgid "https://galussothemes.com"
+msgstr "https://galussothemes.com"
+
+#. Author of the plugin/theme
+msgid "GalussoThemes"
+msgstr "GalussoThemes"
+
+#. Theme URI of the plugin/theme
+msgid "https://galussothemes.com/wordpress-themes/ribosome"
+msgstr "https://galussothemes.com/wordpress-themes/ribosome"

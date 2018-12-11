@@ -1,0 +1,358 @@
+# Translation of Themes - Heidi in English (Canada)
+# This file is distributed under the same license as the Themes - Heidi package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-06 13:17:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_CA\n"
+"Project-Id-Version: Themes - Heidi\n"
+
+#. Description of the plugin/theme
+msgid "Heidi is a simple theme with a fun, easily customizable color scheme. Designed with a mobile-first approach and an emphasis on responsive design, Heidi is ready-for-use on a multitude of screen sizes and across devices."
+msgstr "Heidi is a simple theme with a fun, easily customisable colour scheme. Designed with a mobile-first approach and an emphasis on responsive design, Heidi is ready-for-use on a multitude of screen sizes and across devices."
+
+#. Theme Name of the plugin/theme
+msgid "Heidi"
+msgstr "Heidi"
+
+#: footer.php:22
+msgid "Theme: %1$s"
+msgstr "Theme: %1$s"
+
+#: inc/customizer.php:246
+msgid "Footer Text"
+msgstr "Footer Text"
+
+#: inc/customizer.php:234
+msgid "Calendar Border"
+msgstr "Calendar Border"
+
+#: inc/customizer.php:222
+msgid "Calendar Top Row"
+msgstr "Calendar Top Row"
+
+#: inc/customizer.php:210
+msgid "Calendar Main Color"
+msgstr "Calendar Main Colour"
+
+#: inc/customizer.php:198
+msgid "Sidebar Links - Hover"
+msgstr "Sidebar Links - Hover"
+
+#: inc/customizer.php:186
+msgid "Sidebar Links"
+msgstr "Sidebar Links"
+
+#: inc/customizer.php:174
+msgid "Sidebar Text"
+msgstr "Sidebar Text"
+
+#: inc/customizer.php:162
+msgid "Sidebar Color"
+msgstr "Sidebar Colour"
+
+#: inc/customizer.php:150
+msgid "Sticky Accent"
+msgstr "Sticky Accent"
+
+#: inc/customizer.php:138
+msgid "Sticky Posts"
+msgstr "Sticky Posts"
+
+#: inc/customizer.php:126
+msgid "Posts Border"
+msgstr "Posts Border"
+
+#: inc/customizer.php:114
+msgid "Entry Footer Text"
+msgstr "Entry Footer Text"
+
+#: inc/customizer.php:102
+msgid "Posts Accent"
+msgstr "Posts Accent"
+
+#: inc/customizer.php:90
+msgid "Posts Background"
+msgstr "Posts Background"
+
+#: inc/customizer.php:78
+msgid "Main Text"
+msgstr "Main Text"
+
+#: inc/customizer.php:66
+msgid "Main Accent"
+msgstr "Main Accent"
+
+#: inc/customizer.php:54
+msgid "Main Color"
+msgstr "Main Colour"
+
+#: inc/customizer.php:42
+msgid "Navigation Links - Hover"
+msgstr "Navigation Links - Hover"
+
+#: inc/customizer.php:30
+msgid "Navigation Links"
+msgstr "Navigation Links"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:32
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:25 template-parts/content-single.php:30
+#: template-parts/content.php:39
+msgid "Pages:"
+msgstr "Pages:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/template-tags.php:181
+msgid "Archives"
+msgstr "Archives"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:179
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:175
+msgid "Archives: %s"
+msgstr "Archives: %s"
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statuses"
+
+#: inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Links"
+
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Quotes"
+
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videos"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Images"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galleries"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Asides"
+
+#: inc/template-tags.php:153
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:153
+msgid "Day: %s"
+msgstr "Day: %s"
+
+#: inc/template-tags.php:151
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:151
+msgid "Month: %s"
+msgstr "Month: %s"
+
+#: inc/template-tags.php:149
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:149
+msgid "Year: %s"
+msgstr "Year: %s"
+
+#: inc/template-tags.php:147
+msgid "Author: %s"
+msgstr "Author: %s"
+
+#: inc/template-tags.php:145
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-tags.php:143
+msgid "Category: %s"
+msgstr "Category: %s"
+
+#: inc/template-tags.php:126 template-parts/content-page.php:32
+msgid "Edit"
+msgstr "Edit"
+
+#: inc/template-tags.php:122
+msgid "% Comments"
+msgstr "% Comments"
+
+#: inc/template-tags.php:122
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: inc/template-tags.php:122
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: inc/template-tags.php:116
+msgid "Tagged %1$s"
+msgstr "Tagged %1$s"
+
+#: inc/template-tags.php:110
+msgid "Posted in %1$s"
+msgstr "Posted in %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:108 inc/template-tags.php:114
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:91
+msgctxt "post author"
+msgid "by %s"
+msgstr "By %s"
+
+#: inc/template-tags.php:86
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Newer posts"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Older posts"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Posts navigation"
+
+#: inc/extras.php:52
+msgid "Page %s"
+msgstr "Page %s"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: functions.php:103
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:45 header.php:48
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: footer.php:20
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:20
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:42 comments.php:63
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
+#: comments.php:41 comments.php:62
+msgid "Older Comments"
+msgstr "Older Comments"
+
+#: comments.php:38 comments.php:59
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:45
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Try looking in the monthly archives. %1$s"
+
+#: 404.php:28
+msgid "Most Used Categories"
+msgstr "Most Used Categories"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#. Author URI of the plugin/theme
+msgid "http://alexaweidinger.com"
+msgstr "http://alexaweidinger.com"
+
+#. Author of the plugin/theme
+msgid "Alexa Weidinger"
+msgstr "Alexa Weidinger"
+
+#. Theme URI of the plugin/theme
+msgid "http://alexaweidinger.com/heidi"
+msgstr "http://alexaweidinger.com/heidi"

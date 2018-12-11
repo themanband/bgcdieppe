@@ -1,0 +1,59 @@
+*** Revision History ***
+===========================
+version 2.0.3		2018-01-22
+* Added feature to change apply new style
+* Added feature to control Link primay and secondary colors
+
+version 2.0.2		2017-08-13
+* Added fix for menu titles.
+* Fixed the broken url for theme home page
+
+version 2.0.1		2017-08-13
+* Added css margin fix for archives
+
+version 2.0.0		2017-01-19
+* Added latest WP compatibility
+* Added option to control slider interval
+
+version 1.1.0		2014-05-02
+* Added option to disply page/post nav on single page/post
+* Added option to control meta info disply on post
+* Added option to set favicon
+* Added support to embed new youtube iframe codes
+
+version 1.0.9		2014-05-01
+* Fixed broken image on content-page and content-single
+
+version 1.0.8		2014-02-18
+* Added configurable search box in nav menu
+* Fixed blurb button configuration
+* Fixed front page row heading configuration
+
+version 1.0.7		2014-02-18
+* Fixed screenshot size
+
+version 1.0.6		2014-02-08
+* Fixed a minor bug in widget
+
+version 1.0.5		2014-01-19
+* Added input sanitization for widgets
+
+version 1.0.4		2014-01-19
+* Added input sanitization for widgets
+* Removed Google Custom Search Engine Widget
+
+version 1.0.3		2014-01-19
+* fixed minor issues of links
+
+version 1.0.2		2014-01-19
+* Added support for multilevel menus
+* fixed issue of moretag
+
+version 1.0.1		2014-01-19
+* Changed screeshot size
+* Updated few variables with theme-slug
+
+version 1.0.0		2013-12-26
+* Initial Version
+
+

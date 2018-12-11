@@ -1,0 +1,1044 @@
+# Translation of Themes - Aadya in English (Canada)
+# This file is distributed under the same license as the Themes - Aadya package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-24 19:12:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_CA\n"
+"Project-Id-Version: Themes - Aadya\n"
+
+#. Description of the plugin/theme
+msgid "The Aadya theme for WordPress developed on top of Twitter Bootstrap Framework 3.0. The theme is fully responsive and can be viewed on any device. With 5 different layouts for posts and pages, Aadya theme is uniquely positioned for any business or personal website. The theme has 12 widget areas, 2 strategic menu locations, nicely designed and customizable footer with its own widget areas. In addition to this the theme provieds with 5 pre-installed widgets for FrontPage Marketing Text, FrontPage Marketeing Thumbnails, Author Profile, Social Icon Box. With this theme you can change the style and color combination of your links to make"
+msgstr "The Aadya theme for WordPress developed on top of Twitter Bootstrap Framework 3.0. The theme is fully responsive and can be viewed on any device. With 5 different layouts for posts and pages, Aadya theme is uniquely positioned for any business or personal website. The theme has 12 widget areas, 2 strategic menu locations, nicely designed and customizable footer with its own widget areas. In addition to this the theme provides with 5 pre-installed widgets for FrontPage Marketing Text, FrontPage Marketing Thumbnails, Author Profile, Social Icon Box. With this theme you can change the style and colour combination of your links to make"
+
+#. Theme Name of the plugin/theme
+msgid "Aadya"
+msgstr "Aadya"
+
+#: inc/options.php:442
+msgid "Its used on hover for all links on your pages."
+msgstr "It's used on hover for all links on your pages."
+
+#: inc/options.php:441
+msgid "Secondary Link Color"
+msgstr "Secondary Link Colour"
+
+#: inc/options.php:435
+msgid "Its used for all links on your pages."
+msgstr "It's used for all links on your pages."
+
+#: inc/options.php:434
+msgid "Primary Link Color"
+msgstr "Primary Link Colour"
+
+#: inc/options.php:426
+msgid "This option allows you to set theme style."
+msgstr "This option allows you to set theme style."
+
+#: inc/options.php:425
+msgid "Theme Style"
+msgstr "Theme Style"
+
+#: inc/options.php:43
+msgid "Impact"
+msgstr "Impact"
+
+#: content.php:43
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: content-single.php:61 content.php:26
+msgid ""
+"<span class=\"post-date text-muted no-margin\"><i class=\"fa fa-calendar\"></i> %1$s</span>\n"
+"\t<span class=\"post-author \"><i class=\"fa fa-user text-muted\"></i> %2$s</span>"
+msgstr ""
+"<span class=\"post-date text-muted no-margin\"><i class=\"fa fa-calendar\"></i> %1$s</span>\n"
+"\t<span class=\"post-author \"><i class=\"fa fa-user text-muted\"></i> %2$s</span>"
+
+#: inc/options.php:406
+msgid "Set interval for slider.(In miliseconds e.g. For 3 seconds set it 3000)"
+msgstr "Set interval for slider.(In miliseconds e.g. For 3 seconds set it 3000)"
+
+#: inc/options.php:405
+msgid "Slider Interval"
+msgstr "Slider Interval"
+
+#. Template Name of the plugin/theme
+msgid "Two Column - Sidebar/Content"
+msgstr "Two Column - Sidebar/Content"
+
+#. Template Name of the plugin/theme
+msgid "Three column - Sidebar/Content/Sidebar"
+msgstr "Three column - Sidebar/Content/Sidebar"
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr "Full Width"
+
+#. Template Name of the plugin/theme
+msgid "Front Page With Slider Template"
+msgstr "Front Page With Slider Template"
+
+#. Template Name of the plugin/theme
+msgid "Two Column - Content/Sidebar"
+msgstr "Two Column - Content/Sidebar"
+
+#. Template Name of the plugin/theme
+msgid "Three column - Content/Sidebar/Sidebar"
+msgstr "Three column - Content/Sidebar/Sidebar"
+
+#: tag.php:38
+msgid "Tag Archives: %s"
+msgstr "Tag Archives: %s"
+
+#: sidebar-left.php:33 sidebar.php:32
+msgid "It seems you don't have any widgets in your sidebar! Would you like to %s now?"
+msgstr "It seems you don't have any widgets in your sidebar! Would you like to %s now?"
+
+#: sidebar-left.php:32 sidebar.php:31
+msgid "No widgets found."
+msgstr "No widgets found."
+
+#: inc/widgets/social-box-widget.php:93
+msgid "Extra Small"
+msgstr "Extra Small"
+
+#: inc/widgets/social-box-widget.php:91
+msgid "Small"
+msgstr "Small"
+
+#: inc/widgets/social-box-widget.php:84
+msgid "Icon Size: "
+msgstr "Icon Size: "
+
+#: inc/widgets/social-box-widget.php:81
+msgid "(e.g: http://rss.com/my-profile) "
+msgstr "(e.g: http://rss.com/my-profile) "
+
+#: inc/widgets/social-box-widget.php:79
+msgid "Enable RSS: "
+msgstr "Enable RSS: "
+
+#: inc/widgets/social-box-widget.php:76
+msgid "(e.g: http://pinterest.com/my-profile) "
+msgstr "(e.g: http://pinterest.com/my-profile) "
+
+#: inc/widgets/social-box-widget.php:74
+msgid "Enable Pinterest: "
+msgstr "Enable Pinterest: "
+
+#: inc/widgets/social-box-widget.php:71
+msgid "(e.g: http://linkedin.com/my-profile) "
+msgstr "(e.g: http://linkedin.com/my-profile) "
+
+#: inc/widgets/social-box-widget.php:69
+msgid "Enable LinkedIn: "
+msgstr "Enable LinkedIn: "
+
+#: inc/widgets/social-box-widget.php:66
+msgid "(e.g: http://googleplus.com/my-profile) "
+msgstr "(e.g: http://googleplus.com/my-profile) "
+
+#: inc/widgets/social-box-widget.php:64
+msgid "Enable GooglePlus: "
+msgstr "Enable GooglePlus: "
+
+#: inc/widgets/social-box-widget.php:61
+msgid "(e.g: http://twitter.com/my-profile) "
+msgstr "(e.g: http://twitter.com/my-profile) "
+
+#: inc/widgets/social-box-widget.php:59
+msgid "Enable Twitter: "
+msgstr "Enable Twitter: "
+
+#: inc/widgets/social-box-widget.php:56
+msgid "(e.g: http://facebook.com/my-profile) "
+msgstr "(e.g: http://facebook.com/my-profile) "
+
+#: inc/widgets/social-box-widget.php:54
+msgid "Enable Facebook: "
+msgstr "Enable Facebook: "
+
+#: inc/widgets/social-box-widget.php:25
+msgid "(Aadya) Socal Icon Box"
+msgstr "(Aadya) Socal Icon Box"
+
+#: inc/widgets/social-box-widget.php:18
+msgid "Enable Social Icon Box for your site."
+msgstr "Enable Social Icon Box for your site."
+
+#: inc/widgets/front-page-thumbnail-text-widget.php:71
+msgid "Right"
+msgstr "Right"
+
+#: inc/widgets/front-page-thumbnail-text-widget.php:69
+msgid "Center"
+msgstr "Centre"
+
+#: inc/widgets/front-page-thumbnail-text-widget.php:67
+msgid "Left"
+msgstr "Left"
+
+#: inc/widgets/front-page-thumbnail-text-widget.php:64
+msgid "Alignment: "
+msgstr "Alignment: "
+
+#: inc/widgets/front-page-thumbnail-text-widget.php:57
+msgid "Tagline:"
+msgstr "Tagline:"
+
+#: inc/widgets/front-page-thumbnail-text-widget.php:56
+msgid "Headline:"
+msgstr "Headline:"
+
+#: inc/widgets/front-page-thumbnail-text-widget.php:24
+msgid "(Aadya) Front Page Thumbnail Text"
+msgstr "(Aadya) Front Page Thumbnail Text"
+
+#: inc/widgets/front-page-thumbnail-text-widget.php:18
+msgid "Front Page Thumbnail Text for Marketing."
+msgstr "Front Page Thumbnail Text for Marketing."
+
+#: inc/widgets/front-page-feature-text-widget.php:443
+msgid "Feature Icon:"
+msgstr "Feature Icon:"
+
+#: inc/widgets/front-page-feature-text-widget.php:436
+#: inc/widgets/front-page-thumbnail-text-widget.php:86
+msgid "Success"
+msgstr "Success"
+
+#: inc/widgets/front-page-feature-text-widget.php:434
+#: inc/widgets/front-page-thumbnail-text-widget.php:84
+msgid "Danger"
+msgstr "Danger"
+
+#: inc/widgets/front-page-feature-text-widget.php:432
+#: inc/widgets/front-page-thumbnail-text-widget.php:82
+msgid "Warning"
+msgstr "Warning"
+
+#: inc/widgets/front-page-feature-text-widget.php:430
+#: inc/widgets/front-page-thumbnail-text-widget.php:80
+msgid "Info"
+msgstr "Info"
+
+#: inc/widgets/front-page-feature-text-widget.php:428
+#: inc/widgets/front-page-thumbnail-text-widget.php:78
+msgid "Primary"
+msgstr "Primary"
+
+#: inc/widgets/front-page-feature-text-widget.php:425
+#: inc/widgets/front-page-thumbnail-text-widget.php:75
+msgid "Action Button: "
+msgstr "Action Button: "
+
+#: inc/widgets/front-page-feature-text-widget.php:417
+msgid "Description:"
+msgstr "Description:"
+
+#: inc/widgets/front-page-feature-text-widget.php:396
+msgid "(Aadya) Front Page Feature Text"
+msgstr "(Aadya) Front Page Feature Text"
+
+#: inc/widgets/front-page-feature-text-widget.php:390
+msgid "Front Page Feature Text for Marketing."
+msgstr "Front Page Feature Text for Marketing."
+
+#: inc/widgets/author-profile-widget.php:60
+#: inc/widgets/front-page-feature-text-widget.php:422
+#: inc/widgets/front-page-thumbnail-text-widget.php:61
+msgid "Action Label:"
+msgstr "Action Label:"
+
+#: inc/widgets/author-profile-widget.php:57
+#: inc/widgets/front-page-feature-text-widget.php:419
+#: inc/widgets/front-page-thumbnail-text-widget.php:58
+msgid "Action URL:"
+msgstr "Action URL:"
+
+#: inc/widgets/author-profile-widget.php:55
+msgid "Short Description:"
+msgstr "Short Description:"
+
+#: inc/widgets/author-profile-widget.php:51
+#: inc/widgets/front-page-thumbnail-text-widget.php:50
+msgid "Image Size:"
+msgstr "Image Size:"
+
+#: inc/widgets/author-profile-widget.php:45
+#: inc/widgets/front-page-thumbnail-text-widget.php:48
+msgid "Image:"
+msgstr "Image:"
+
+#: inc/widgets/author-profile-widget.php:43
+#: inc/widgets/front-page-feature-text-widget.php:416
+#: inc/widgets/front-page-thumbnail-text-widget.php:47
+#: inc/widgets/social-box-widget.php:51
+msgid "Title:"
+msgstr "Title:"
+
+#: inc/widgets/author-profile-widget.php:24
+msgid "(Aadya) Author Profile"
+msgstr "(Aadya) Author Profile"
+
+#: inc/widgets/author-profile-widget.php:18
+msgid "Enable Author Profile and Display your information in style."
+msgstr "Enable Author Profile and Display your information in style."
+
+#: inc/options.php:470
+msgid "Check to Display Featured Image on top of Single Post/Page. Defaults to True."
+msgstr "Check to Display Featured Image on top of Single Post/Page. Defaults to True."
+
+#: inc/options.php:469
+msgid "Display Featured Image on top of Single Post/Page"
+msgstr "Display Featured Image on top of Single Post/Page"
+
+#: inc/options.php:463
+msgid "Check to display Post/Page Navigation and Category/Tags on Single Post/Page. Defaults to True."
+msgstr "Check to display Post/Page Navigation and Category/Tags on Single Post/Page. Defaults to True."
+
+#: inc/options.php:462
+msgid "Display Post/Page Navigation and Category/Tags on Single Post/Page"
+msgstr "Display Post/Page Navigation and Category/Tags on Single Post/Page"
+
+#: inc/options.php:456
+msgid "Check to display Post Meta Information. Defaults to True."
+msgstr "Check to display Post Meta Information. Defaults to True."
+
+#: inc/options.php:455
+msgid "Display Post Meta Information"
+msgstr "Display Post Meta Information"
+
+#: inc/options.php:449
+msgid "Check to display Search in Nav Menu. Defaults to True."
+msgstr "Check to display Search in Nav Menu. Defaults to True."
+
+#: inc/options.php:448
+msgid "Display Search Icon in Nav Menu"
+msgstr "Display Search Icon in Nav Menu"
+
+#: inc/options.php:412
+msgid "Misc Settings"
+msgstr "Misc Settings"
+
+#: inc/options.php:398
+msgid "This text is used to set title of row four. If set to blank no title is displayed."
+msgstr "This text is used to set title of row four. If set to blank no title is displayed."
+
+#: inc/options.php:397
+msgid "Row Four Header/Title"
+msgstr "Row Four Header/Title"
+
+#: inc/options.php:390
+msgid "This text is used to set title of row three. If set to blank no title is displayed."
+msgstr "This text is used to set title of row three. If set to blank no title is displayed."
+
+#: inc/options.php:389
+msgid "Row Three Header/Title"
+msgstr "Row Three Header/Title"
+
+#: inc/options.php:382
+msgid "This text is used to set title of row two. If set to blank no title is displayed."
+msgstr "This text is used to set title of row two. If set to blank no title is displayed."
+
+#: inc/options.php:381
+msgid "Row Two Header/Title"
+msgstr "Row Two Header/Title"
+
+#: inc/options.php:374
+msgid "This text is used to set title of row one. If set to blank no title is displayed."
+msgstr "This text is used to set title of row one. If set to blank no title is displayed."
+
+#: inc/options.php:373
+msgid "Row One Header/Title"
+msgstr "Row One Header/Title"
+
+#: inc/options.php:368
+msgid "If checked it gives you options to set row header/title for each row (we have max four) you configure on home page. By default all titles are blank"
+msgstr "If checked it gives you options to set row header/title for each row (we have max four) you configure on home page. By default all titles are blank"
+
+#: inc/options.php:367
+msgid "Check to Show Row Titles on Front page"
+msgstr "Check to Show Row Titles on Front page"
+
+#: inc/options.php:359
+msgid "This option allows you to set how many widget areas/rows you want in Frontpage. Default is 2. You can add other widget to this area and they will be displyed horizontally in a row"
+msgstr "This option allows you to set how many widget areas/rows you want in Frontpage. Default is 2. You can add other widget to this area and they will be displyed horizontally in a row"
+
+#: inc/options.php:358
+msgid "Widget Areas/Rows in Front Page"
+msgstr "Widget Areas/Rows in Front Page"
+
+#: inc/options.php:352
+msgid "Link for Blurb Button"
+msgstr "Link for Blurb Button"
+
+#: inc/options.php:345
+msgid "Set title for Blurb Button."
+msgstr "Set title for Blurb Button."
+
+#: inc/options.php:338
+msgid "Check to display Blurb Button."
+msgstr "Check to display Blurb Button."
+
+#: inc/options.php:331
+msgid "Enter text here to be displayed in Blurb Section."
+msgstr "Enter text here to be displayed in Blurb Section."
+
+#: inc/options.php:324
+msgid "Enter text here to be displayed in Blurb Heading."
+msgstr "Enter text here to be displayed in Blurb Heading."
+
+#: inc/options.php:317
+msgid "Check to display Blurb on home page."
+msgstr "Check to display Blurb on home page."
+
+#: inc/options.php:312
+msgid "<b>Following section will allow you to set text and button settings</b>"
+msgstr "<b>Following section will allow you to set text and button settings</b>"
+
+#: inc/options.php:311
+msgid "Blurb Settings - Following section allows you to configure your blurb on front page."
+msgstr "Blurb Settings - Following section allows you to configure your blurb on front page."
+
+#: inc/options.php:293
+msgid "Caption of Image 4."
+msgstr "Caption of Image 4."
+
+#: inc/options.php:287
+msgid "Heading of Image 4."
+msgstr "Heading of Image 4."
+
+#: inc/options.php:281
+msgid "Slider Image 4"
+msgstr "Slider Image 4"
+
+#: inc/options.php:263
+msgid "Caption of Image 3."
+msgstr "Caption of Image 3."
+
+#: inc/options.php:257
+msgid "Heading of Image 3."
+msgstr "Heading of Image 3."
+
+#: inc/options.php:251
+msgid "Slider Image 3"
+msgstr "Slider Image 3"
+
+#: inc/options.php:233
+msgid "Caption of Image 2."
+msgstr "Caption of Image 2."
+
+#: inc/options.php:227
+msgid "Heading of Image 2."
+msgstr "Heading of Image 2."
+
+#: inc/options.php:221
+msgid "Slider Image 2"
+msgstr "Slider Image 2"
+
+#: inc/options.php:215 inc/options.php:245 inc/options.php:275
+#: inc/options.php:305
+msgid "Link for Button"
+msgstr "Link for Button"
+
+#: inc/options.php:209 inc/options.php:239 inc/options.php:269
+#: inc/options.php:299
+msgid "Set title for Button."
+msgstr "Set title for Button."
+
+#: inc/options.php:203
+msgid "Caption of Image 1."
+msgstr "Caption of Image 1."
+
+#: inc/options.php:197
+msgid "Heading of Image 1."
+msgstr "Heading of Image 1."
+
+#: inc/options.php:192 inc/options.php:222 inc/options.php:252
+#: inc/options.php:282
+msgid "Set image for slider. Preferred size 1350x450"
+msgstr "Set image for slider. Preferred size 1350x450"
+
+#: inc/options.php:191
+msgid "Slider Image 1"
+msgstr "Slider Image 1"
+
+#: inc/options.php:185
+msgid "Check to display Slider. Defaults to False."
+msgstr "Check to display Slider. Defaults to False."
+
+#: inc/options.php:184
+msgid "Settings for Slider on Home page. (This is displayed on Front Page template with Slider Only.)"
+msgstr "Settings for Slider on Home page. (This is displayed on Front Page template with Slider Only.)"
+
+#: inc/options.php:180
+msgid "Front Page Settings"
+msgstr "Front Page Settings"
+
+#: inc/options.php:174
+msgid "Your sites copyright statement."
+msgstr "Your site's copyright statement."
+
+#: inc/options.php:173
+msgid "Copyright Text"
+msgstr "Copyright Text"
+
+#: inc/options.php:165
+msgid "This option allows you to set how many widget areas you want in footer. Default is 3."
+msgstr "This option allows you to set how many widget areas you want in footer. Default is 3."
+
+#: inc/options.php:164
+msgid "Widget Areas in Extended Footer"
+msgstr "Widget Areas in Extended Footer"
+
+#: inc/options.php:140
+msgid "This option allows you to set wider theme layout."
+msgstr "This option allows you to set wider theme layout."
+
+#: inc/options.php:139
+msgid "Theme Layout"
+msgstr "Theme Layout"
+
+#: inc/options.php:134
+msgid "If set this will be used as your sites logo."
+msgstr "If set this will be used as your sites logo."
+
+#: inc/options.php:133
+msgid "Site Logo"
+msgstr "Site Logo"
+
+#: inc/options.php:127
+msgid "Change the body background CSS."
+msgstr "Change the body background CSS."
+
+#: inc/options.php:126
+msgid "Body Background"
+msgstr "Body Background"
+
+#: inc/options.php:120
+msgid "Change the header background CSS."
+msgstr "Change the header background CSS."
+
+#: inc/options.php:119
+msgid "Header Background"
+msgstr "Header Background"
+
+#: inc/options.php:114
+msgid "Basic Settings"
+msgstr "Basic Settings"
+
+#: inc/options.php:52
+msgid "Waffle"
+msgstr "Waffle"
+
+#: inc/options.php:51
+msgid "Crepe"
+msgstr "Crepe"
+
+#: inc/options.php:50
+msgid "Omelette"
+msgstr "Omelette"
+
+#: inc/options.php:49
+msgid "Pancake"
+msgstr "Pancake"
+
+#: inc/options.php:48
+msgid "French Toast"
+msgstr "French Toast"
+
+#: inc/options.php:38
+msgid "Wide"
+msgstr "Wide"
+
+#: inc/options.php:33
+msgid "Four"
+msgstr "Four"
+
+#: inc/options.php:32
+msgid "Three"
+msgstr "Three"
+
+#: inc/admin/options-sanitize.php:347
+msgid "Bold Italic"
+msgstr "Bold Italic"
+
+#: inc/admin/options-sanitize.php:346
+msgid "Bold"
+msgstr "Bold"
+
+#: inc/admin/options-sanitize.php:345
+msgid "Italic"
+msgstr "Italic"
+
+#: inc/admin/options-sanitize.php:344
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/admin/options-sanitize.php:270
+msgid "Fixed in Place"
+msgstr "Fixed in Place"
+
+#: inc/admin/options-sanitize.php:269
+msgid "Scroll Normally"
+msgstr "Scroll Normally"
+
+#: inc/admin/options-sanitize.php:256
+msgid "Bottom Right"
+msgstr "Bottom right"
+
+#: inc/admin/options-sanitize.php:255
+msgid "Bottom Center"
+msgstr "Bottom Centre"
+
+#: inc/admin/options-sanitize.php:254
+msgid "Bottom Left"
+msgstr "Bottom left"
+
+#: inc/admin/options-sanitize.php:253
+msgid "Middle Right"
+msgstr "Middle Right"
+
+#: inc/admin/options-sanitize.php:252
+msgid "Middle Center"
+msgstr "Middle Centre"
+
+#: inc/admin/options-sanitize.php:251
+msgid "Middle Left"
+msgstr "Middle Left"
+
+#: inc/admin/options-sanitize.php:250
+msgid "Top Right"
+msgstr "Top right"
+
+#: inc/admin/options-sanitize.php:249
+msgid "Top Center"
+msgstr "Top Centre"
+
+#: inc/admin/options-sanitize.php:248
+msgid "Top Left"
+msgstr "Top left"
+
+#: inc/admin/options-sanitize.php:235
+msgid "Repeat All"
+msgstr "Repeat All"
+
+#: inc/admin/options-sanitize.php:234
+msgid "Repeat Vertically"
+msgstr "Repeat Vertically"
+
+#: inc/admin/options-sanitize.php:233
+msgid "Repeat Horizontally"
+msgstr "Repeat Horizontally"
+
+#: inc/admin/options-sanitize.php:232
+msgid "No Repeat"
+msgstr "No Repeat"
+
+#: inc/admin/options-media-uploader.php:83
+msgid "View File"
+msgstr "View File"
+
+#: inc/admin/options-media-uploader.php:59
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Upgrade your version of WordPress for full media support."
+
+#: inc/admin/options-media-uploader.php:54
+#: inc/admin/options-media-uploader.php:111
+msgid "Upload"
+msgstr "Upload"
+
+#: inc/admin/options-media-uploader.php:51
+msgid "No file chosen"
+msgstr "No file chosen"
+
+#: inc/admin/options-framework.php:340
+msgid "Options saved."
+msgstr "Options saved."
+
+#: inc/admin/options-framework.php:286
+msgid "Default options restored."
+msgstr "Default options restored."
+
+#: inc/admin/options-framework.php:253
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Click OK to reset. Any theme settings will be lost!"
+
+#: inc/admin/options-framework.php:253
+msgid "Restore Defaults"
+msgstr "Restore Defaults"
+
+#: inc/admin/options-framework.php:252
+msgid "Save Options"
+msgstr "Save Options"
+
+#: inc/admin/options-framework.php:207
+msgid "Select Color"
+msgstr "Select Colour"
+
+#: inc/admin/options-framework.php:206 inc/options.php:37 inc/options.php:42
+#: inc/widgets/front-page-feature-text-widget.php:438
+#: inc/widgets/front-page-thumbnail-text-widget.php:88
+#: inc/widgets/social-box-widget.php:87
+msgid "Default"
+msgstr "Default"
+
+#: inc/admin/options-framework.php:205
+msgid "Clear"
+msgstr "Clear"
+
+#: inc/admin/options-framework.php:173 inc/admin/options-framework.php:390
+msgid "Theme Options"
+msgstr "Theme Options"
+
+#: header.php:118 searchform.php:14 searchform.php:16
+msgid "Search"
+msgstr "Search"
+
+#: functions.php:966
+msgid "None"
+msgstr "None"
+
+#: functions.php:964
+msgid "Custom"
+msgstr "Custom"
+
+#: functions.php:962
+msgid "Full"
+msgstr "Full"
+
+#: functions.php:960 inc/widgets/social-box-widget.php:89
+msgid "Large"
+msgstr "Large"
+
+#: functions.php:958
+msgid "Medium"
+msgstr "Medium"
+
+#: functions.php:956
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: functions.php:863 inc/admin/options-media-uploader.php:56
+#: inc/admin/options-media-uploader.php:112
+msgid "Remove"
+msgstr "Remove"
+
+#: functions.php:861
+msgid "Choose"
+msgstr "Choose"
+
+#: functions.php:558
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+
+#: functions.php:556
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+
+#. Translators: 1 is category, 2 is tag, 3 is the date and 4 is the author's
+#. name.
+#: functions.php:554
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+
+#. Translators: used between list items, there is a space after the comma.
+#: functions.php:534 functions.php:537
+msgid ", "
+msgstr ", "
+
+#: functions.php:512
+msgid "Reply"
+msgstr "Reply"
+
+#: functions.php:508
+msgid "Edit"
+msgstr "Edit"
+
+#: functions.php:502
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#. translators: 1: date, 2: time
+#: functions.php:497
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: functions.php:491
+msgid "Post author"
+msgstr "Post author"
+
+#: functions.php:471
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: functions.php:471
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:419
+msgid "This widget area is active only on frontpage and fourth widget area/row."
+msgstr "This widget area is active only on frontpage and fourth widget area/row."
+
+#: functions.php:418
+msgid "Front Page Widget Row Four"
+msgstr "Front Page Widget Row Four"
+
+#: functions.php:401
+msgid "This widget area is active only on frontpage and third widget area/row."
+msgstr "This widget area is active only on frontpage and third widget area/row."
+
+#: functions.php:400
+msgid "Front Page Widget Row Three"
+msgstr "Front Page Widget Row Three"
+
+#: functions.php:384
+msgid "This widget area is active only on frontpage and second widget area/row."
+msgstr "This widget area is active only on frontpage and second widget area/row."
+
+#: functions.php:383
+msgid "Front Page Widget Row Two"
+msgstr "Front Page Widget Row Two"
+
+#: functions.php:368
+msgid "This widget area is active only on frontpage and first widget area/row."
+msgstr "This widget area is active only on frontpage and first widget area/row."
+
+#: functions.php:367
+msgid "Front Page Widget Row One"
+msgstr "Front Page Widget Row One"
+
+#: functions.php:343
+msgid "Footer Four"
+msgstr "Footer Four"
+
+#: functions.php:333 functions.php:344
+msgid "This sidebar is located on Footer and its Third section. Occupies 4 Columns out of 12."
+msgstr "This sidebar is located on Footer and its Third section. Occupies 4 Columns out of 12."
+
+#: functions.php:332
+msgid "Footer Three"
+msgstr "Footer Three"
+
+#: functions.php:323
+msgid "This sidebar is located on Footer and its Second section.Occupies 4 Columns out of 12."
+msgstr "This sidebar is located on Footer and its Second section. Occupies 4 Columns out of 12."
+
+#: functions.php:322
+msgid "Footer Two"
+msgstr "Footer Two"
+
+#: functions.php:313
+msgid "This sidebar is located on Footer and its First section. Occupies 4 Columns out of 12."
+msgstr "This sidebar is located on Footer and its First section. Occupies 4 Columns out of 12."
+
+#: functions.php:312
+msgid "Footer One"
+msgstr "Footer One"
+
+#: functions.php:302
+msgid "This sidebar is located on the left-hand side of each page."
+msgstr "This sidebar is located on the left-hand side of each page."
+
+#: functions.php:301
+msgid "Sidebar Left"
+msgstr "Sidebar Left"
+
+#: functions.php:291
+msgid "This sidebar is located on the right-hand side of each page. This is Default Side bar."
+msgstr "This sidebar is located on the right-hand side of each page. This is Default Side bar."
+
+#: functions.php:290
+msgid "Sidebar Right"
+msgstr "Sidebar Right"
+
+#: functions.php:280
+msgid "This sidebar is located on the left-hand side of header area. Just after logo."
+msgstr "This sidebar is located on the left-hand side of header area. Just after logo."
+
+#: functions.php:279
+msgid "Header Left"
+msgstr "Header Left"
+
+#: functions.php:270
+msgid "This sidebar is located on the right-hand side of header area."
+msgstr "This sidebar is located on the right-hand side of header area."
+
+#: functions.php:269
+msgid "Header Right"
+msgstr "Header Right"
+
+#: functions.php:241
+msgid "Page %s"
+msgstr "Page %s"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language, translate 		   this to 'greek', 'cyrillic' or 'vietnamese'.
+#. Do not translate into your own language.
+#: functions.php:152
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:147
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:71
+msgid "Footer Menu"
+msgstr "Footer Menu"
+
+#: functions.php:70
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: footer.php:24
+msgid "&copy; "
+msgstr "&copy; "
+
+#: content.php:68
+msgid "<span class=\"post-author no-margin\"><i class=\"fa fa-user text-muted\"></i> %2$s</span><span class=\"post-date text-muted\"><i class=\"fa fa-calendar\"></i> %1$s</span>"
+msgstr "<span class=\"post-author no-margin\"><i class=\"fa fa-user text-muted\"></i> %2$s</span><span class=\"post-date text-muted\"><i class=\"fa fa-calendar\"></i> %1$s</span>"
+
+#: content.php:19
+msgid "Permalink to %s"
+msgstr "Permalink to %s"
+
+#: content-single.php:84 content-single.php:89 content.php:43 content.php:86
+msgid "% comments"
+msgstr "% Comments"
+
+#: content-single.php:84 content-single.php:89 content.php:43 content.php:86
+msgid "One comment"
+msgstr "One comment"
+
+#: content-single.php:84 content-single.php:89 content.php:86
+msgid "No comments"
+msgstr "No Comments"
+
+#: content-single.php:56 content-single.php:70 content.php:35 content.php:78
+#: functions.php:548
+msgid "View all posts by %s"
+msgstr "View all posts by %s"
+
+#: content-single.php:53
+msgid "<div class=\"post-meta-auth\"><span class=\"post-author\"><i class=\"fa fa-user\"></i> %1$s </span></div>"
+msgstr "<div class=\"post-meta-auth\"><span class=\"post-author\"><i class=\"fa fa-user\"></i> %1$s </span></div>"
+
+#: content-single.php:46
+msgid "<div class=\"post-meta-date\"><span class=\"post-date\"><i class=\"fa fa-calendar\"></i> %1$s </span></div>"
+msgstr "<div class=\"post-meta-date\"><span class=\"post-date\"><i class=\"fa fa-calendar\"></i> %1$s </span></div>"
+
+#: content-single.php:39
+msgid "Sticky"
+msgstr "Sticky"
+
+#: content-page.php:63 content-single.php:134
+msgid "<i class=\"fa fa-tags\"></i> &nbsp;"
+msgstr "<i class=\"fa fa-tags\"></i> &nbsp;"
+
+#: content-page.php:55 content-single.php:126
+msgid "<i class=\"fa fa-folder-open\"></i> &nbsp;"
+msgstr "<i class=\"fa fa-folder-open\"></i> &nbsp;"
+
+#: content-noresults.php:32
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "Apologies, but no results were found. Perhaps searching will help find a related post."
+
+#: content-noresults.php:28
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: content-noresults.php:21
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+
+#: content-noresults.php:17
+msgid "No posts to display"
+msgstr "No posts to display"
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:42
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: comments.php:41
+msgid "&larr; Older Comments"
+msgstr "&larr; Older Comments"
+
+#: comments.php:40
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:31
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: category.php:38
+msgid "Category Archives: %s"
+msgstr "Category Archives: %s"
+
+#: author-box.php:22 author.php:67
+msgid "About %s"
+msgstr "About %s"
+
+#: archive.php:54
+msgid "Archives"
+msgstr "Archives"
+
+#: archive.php:52
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:52
+msgid "Yearly Archives: %s"
+msgstr "Yearly Archives: %s"
+
+#: archive.php:50
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:50
+msgid "Monthly Archives: %s"
+msgstr "Monthly Archives: %s"
+
+#: archive.php:48
+msgid "Daily Archives: %s"
+msgstr "Daily Archives: %s"
+
+#: 404.php:36
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: 404.php:32
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "This is somewhat embarrassing, isn&rsquo;t it?"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.opencodez.com/free-themes/aadya-free-premium-wordpress-theme"
+msgstr "http://www.opencodez.com/free-themes/aadya-free-premium-wordpress-theme"
+
+#. Author URI of the plugin/theme
+msgid "http://www.opencodez.com"
+msgstr "http://www.opencodez.com"
+
+#. Author of the plugin/theme
+msgid "Opencodez Team"
+msgstr "Opencodez Team"
