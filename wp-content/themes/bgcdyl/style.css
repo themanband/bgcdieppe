@@ -1,0 +1,66 @@
+/*
+Theme Name: BGCD
+Theme URI: http://mysite.com
+Version: 1.0
+*/
+*{
+    margin:0px;
+    padding:0px;
+}
+header{
+    height:100px;
+    width:100%;
+    background:url(http://localhost:8888/wordpress/wp-content/uploads/2018/12/headerbig.jpg);
+    background-size:contain;
+    background-repeat:no-repeat;
+    background-position-x: center;
+    margin:5px 0;
+}
+nav ul {
+    display:flex;
+}
+nav ul li{
+    text-align:center;
+    flex-basis:20%;
+    list-style:none;
+    background:linear-gradient(to right, rgb(102, 194, 0) 0%, rgb(102, 204, 0) 20%, rgb(102, 194, 0) 100% );
+    padding:1em;
+    border-radius:0px 0px 7px 7px;
+    box-shadow:5px 5px 5px black;
+    border: 1px solid white;
+}
+nav ul li a{
+    text-decoration:none;
+    color:white;
+    font-weight:bold;
+    padding:1em;
+    font-size:1.2em;
+    text-shadow:3px 2px 5px black;
+}
+nav ul li ul{
+	opacity:0;
+    position:absolute;
+    display:flex;
+    flex-direction:column;
+    margin-top:15px;
+    margin-left:-15px;
+    width:20%;
+    transition: opacity .8s, color .8s;
+    color:lightgreen;
+}
+nav ul li:hover > ul{
+    opacity:1;
+    transition: opacity .8s, color .8s;
+}
+footer{
+    background:linear-gradient(to right, rgb(102, 184, 0) 0%, rgb(102, 204, 0) 20%, rgb(102, 184, 0) 100% );
+    height:30px;
+    bottom:0;
+    border-radius: 30px 30px 0px 0px;
+    text-align:center;
+    color:white;
+    font-weight:bold;
+    text-shadow:3px 2px 5px black;
+    position:fixed;
+    width:100%;
+}
